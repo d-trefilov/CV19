@@ -45,6 +45,10 @@
                                RadiusX="5" RadiusY="7"/>
                     <Ellipse Grid.Column="1" Grid.Row="0"
                              Fill="Red" Stroke="Blue" StrokeThickness="3"/>
+
+                    <GridSplitter Grid.Column="0" Grid.Row ="0" Grid.RowSpan="3"
+                                  HorizontalAlignment="Right"
+                                  Width="4"/>
                 </Grid>
             </TabItem>
             <TabItem Header="Вкладка2"></TabItem>
